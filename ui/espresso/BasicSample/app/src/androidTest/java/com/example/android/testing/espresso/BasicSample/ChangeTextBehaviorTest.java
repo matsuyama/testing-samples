@@ -47,7 +47,7 @@ import static androidx.test.espresso.matcher.ViewMatchers.withText;
 @LargeTest
 public class ChangeTextBehaviorTest {
 
-    public static final String STRING_TO_BE_TYPED = "Espresso";
+    public static final String STRING_TO_BE_TYPED = "PFU BlueCats";
 
     /**
      * Use {@link ActivityScenarioRule} to create and launch the activity under test, and close it
